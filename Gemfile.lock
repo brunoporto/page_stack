@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    page_stack (1.0.3)
+    page_stack (1.0.4)
       remotipart
 
 GEM
