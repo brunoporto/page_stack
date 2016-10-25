@@ -1,6 +1,8 @@
 PageStack
 =======
 
+[![Code Climate](https://codeclimate.com/github/brunoporto/page_stack/badges/gpa.svg)](https://codeclimate.com/github/brunoporto/page_stack)
+
 Essa GEM fornece a possibilidade de navegação de paǵinas sobrepostas, facilitando assim a abertura de novas páginas em perder o conteúdo anterior.
 
 # Requisitos
